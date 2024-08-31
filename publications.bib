@@ -1,0 +1,81 @@
+
+@inproceedings{grillo_optimal_2024,
+	address = {Orlando, FL},
+	title = {Optimal {Stall} {Recovery} via {Deep} {Reinforcement} {Learning} for a {General} {Aviation} {Aircraft}},
+	isbn = {978-1-62410-711-5},
+	url = {https://arc.aiaa.org/doi/10.2514/6.2024-2408},
+	doi = {10.2514/6.2024-2408},
+	abstract = {Stall is a hazardous region of the flight envelope for fixed-wing aircraft, in which a high angle of attack causes flow separation from the main wing. Indeed, inadvertent stalls are a major co-factor of fatal accidents in general aviation aircraft, and applying correct stall recovery actions is fundamental to minimizing altitude loss and thus the risk of ground collision. This paper studies the optimal stall recovery problem, whereby a control policy for control surface deflections and throttle is computed with the goal of minimizing total altitude loss for a general aviation aircraft. The optimal control problem is formulated and cast as an infinite horizon Dynamic Programming (DP) problem. To circumvent the curse of dimensionality, characteristic of exact DP algorithms, the Proximal Policy Optimization (PPO) algorithm is considered, a sampling based Deep Reinforcement Learning algorithm that can handle large continuous state-action spaces. The approach is first validated by comparing the results from PPO with those from Value-Iteration, an exact DP algorithm, on a reduced order problem, showing that indeed PPO converges to the optimal policy. PPO is then applied to the stall recovery problem computing the optimal policy for control surface deflection and throttle inputs. The results presented in this study confirm empirically developed guidelines for stall recovery of general aviation aircraft, and also shows the criticality of correct elevator and throttle management in the minimization of altitude loss, with as much as a 30\% increase in altitude loss if application of full throttle is delayed by as little as 0.75 seconds In addition to the quantitative results and analysis presented for the stall recovery problem, this work suggests that PPO could be applied to other challenging loss of control and upset recovery problems involving full aircraft degrees of freedom opening up new lines of research in fixed wing loss of control.},
+	language = {en},
+	urldate = {2024-03-04},
+	booktitle = {{AIAA} {SCITECH} 2024 {Forum}},
+	publisher = {American Institute of Aeronautics and Astronautics},
+	author = {Grillo, Agustin and Torre, Gabriel and Bunge, Roberto},
+	month = jan,
+	year = {2024},
+	file = {Grillo et al. - 2024 - Optimal Stall Recovery via Deep Reinforcement Lear.pdf:/home/gabotor/Zotero/storage/7WPFV67A/Grillo et al. - 2024 - Optimal Stall Recovery via Deep Reinforcement Lear.pdf:application/pdf},
+}
+
+@inproceedings{pose_neural_2023,
+	address = {Poland},
+	title = {Neural network-based propeller damage detection for multirotors},
+	copyright = {All rights reserved},
+	abstract = {This work presents a method for detecting and identificating possible damages to propeller blades in multirotor vehicles, for a particular case study of a quadrotor. The detection method is based on a neural network, which takes as input the energy of several spectral bands of the inertial measurements and control variables, and outputs a measure of how damaged a propeller is. The ability of the network to correctly generalize from a limited dataset will be shown by training it using data gathered from an indoor, controlled environment, and testing it using data from outdoor flights.},
+	author = {Pose, Claudio and Giribet, Juan and Torre, Gabriel and Marzik, Guillermo},
+	year = {2023},
+	file = {Pose et al. - 2023 - Neural network-based propeller damage detection fo.pdf:/home/gabotor/Zotero/storage/ZF4I7S4F/Pose et al. - 2023 - Neural network-based propeller damage detection fo.pdf:application/pdf},
+}
+
+@inproceedings{torre_dyna-0_2022,
+	address = {Bariloche, Argentina},
+	title = {Dyna-0: {Cuadrúpedo} para aprendizaje automático},
+	copyright = {All rights reserved},
+	shorttitle = {Dyna-0},
+	abstract = {En este artículo se presenta el Dyna-0, un robot cuadrúpedo para investigación en estrategias de locomoción y robustez de movimiento, que, basado en un diseño open-source impreso en 3D y mediante una computadora embebida, logra un movimiento robusto en una variedad de terrenos. Las estrategias de locomoción son generadas mediante aprendizaje reforzado en un ambiente simulado.
+En este trabajo se muestra cómo se pueden lograr marchas robustas valiéndose simplemente de estrategias simples de control lineal donde los sensores de entrada se mapean a los actuadores usando una matriz. Esta estrategia simple logra generalizar la robustez del andar a muchas clases de movimientos incluyendo roto-traslaciones en cualquiera de las direcciones paralelas al piso, aunque solamente haya sido entrenado caminando hacia adelante a velocidad constante.
+En particular, se trabaja sobre como robustecer un estilo de caminata predefinido, usando exclusivamente sensores propioceptivos, especialmente sensores inerciales.
+Otro foco de la investigación es la transferencia de lo aprendido entre el mundo simulado y la realidad, y posibles técnicas que ayuden a cerrar la brecha que separa los dos mundos, tales como aleatorización de parámetros o adaptación del dominio.},
+	language = {es},
+	booktitle = {{XI} {Jornadas} {Argentinas} de {Robótica}},
+	author = {Torre, Gabriel and Grillo, Agustín and Bunge, Roberto},
+	month = mar,
+	year = {2022},
+	file = {Torre et al. - 2022 - Dyna-0 Cuadrúpedo para aprendizaje automático.pdf:/home/gabotor/Zotero/storage/BJ76XCEQ/Torre et al. - 2022 - Dyna-0 Cuadrúpedo para aprendizaje automático.pdf:application/pdf},
+}
+
+@inproceedings{casiraghi_low-cost_2022,
+	address = {Bariloche, Argentina},
+	title = {Low-{Cost} {Quadruped} {Leg} {Module}: {Design} and {Initial} {Validation}},
+	copyright = {All rights reserved},
+	shorttitle = {Low-{Cost} {Quadruped} {Leg} {Module}},
+	abstract = {We present a new quadruped leg design focused on reducing part cost, reducing manufacturing complexity, and maximizing the use of regionally-available components. This study describes the simulations that allowed an iterative design process, the design itself and the initial testing results. The simulations represent simple leg scenarios such as running, jumping, accelerating, and standing up. With these tests, we are able to define leg requirements that shape the design process. This results in a 1kg-mass quadruped leg capable of producing 12.6 Nm of torque for short bursts thanks to its brushless motors and its 1:9 reduction. This design is then experimentally tested to verify its characteristics. This includes testing of servo motors, brushless motors, and motor-reduction systems. Of the latter, joint compliance, backlash, static and dynamic torque were tested. These are the first steps to develop a low-cost quadruped robot for autonomous locomotion research.},
+	booktitle = {{XI} {Jornadas} {Argentinas} de {Robótica}},
+	author = {Casiraghi, Tadeo and Torre, Gabriel and Bunge, Roberto and Mas, Ignacio},
+	month = mar,
+	year = {2022},
+	file = {Casiraghi et al. - 2022 - Low-Cost Quadruped Leg Module Design and Initial .pdf:/home/gabotor/Zotero/storage/HGZHYAGN/Casiraghi et al. - 2022 - Low-Cost Quadruped Leg Module Design and Initial .pdf:application/pdf},
+}
+
+@inproceedings{grillo_balancio-kit_2022,
+	address = {Bariloche, Argentina},
+	title = {Balancio-{Kit}: {An} educational self balancing robot},
+	copyright = {All rights reserved},
+	shorttitle = {Balancio-{Kit}},
+	abstract = {In this paper Balancio-Kit is presented, a low-cost self balancing robot, targeted to robotics, systems control, and machine learning students and enthusiasts, at different knowledge levels. The platform comes with various additions, such as CAD files; a Bluetooth application to command the robot; a simulation, where the user can evaluate different control algorithms or train reinforcement learning agents; and a tested workflow to implement neural networks inside a low-cost microprocessor. It is designed to be low-cost and easy to assemble, simple to flash software and to be upgradable and remixable. Implemented using well-known software like Arduino IDE and open source tools like Pybullet and Open AI Gym.},
+	author = {Grillo, Agustín and Torre, Gabriel and Bunge, Roberto and Mas, Ignacio},
+	month = mar,
+	year = {2022},
+	file = {Grillo et al. - 2022 - Balancio-Kit An educational self balancing robot.pdf:/home/gabotor/Zotero/storage/6Y9C6TYS/Grillo et al. - 2022 - Balancio-Kit An educational self balancing robot.pdf:application/pdf},
+}
+
+@inproceedings{casiraghi_dyna-1_2024,
+	address = {CABA, Argentina},
+	title = {Dyna-1: {Desarrollo}, {Construcción} y {Pruebas} {Experimentales} de un {Robot} {Cuadrúpedo} de {Diseño} {Abierto}},
+	copyright = {All rights reserved},
+	shorttitle = {Dyna-1},
+	language = {es},
+	author = {Casiraghi, Tadeo and Torre, Gabriel and Bunge, Roberto and Mas, Ignacio},
+	month = jun,
+	year = {2024},
+	file = {PDF:/home/gabotor/Zotero/storage/2PRFEGZH/Casiraghi et al. - Dyna-1 Desarrollo, Construcci´on y Pruebas Experimentales de un Robot Cuadru´pedo de Dise˜no Abiert.pdf:application/pdf},
+}
