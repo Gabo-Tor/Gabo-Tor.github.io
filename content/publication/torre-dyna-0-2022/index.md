@@ -1,7 +1,7 @@
 ---
 title: 'Dyna-0: Cuadrúpedo para aprendizaje automático'
 authors:
-- Gabriel Torre
+- **Gabriel Torre**
 - Agustín Grillo
 - Roberto Bunge
 date: '2022-03-01'

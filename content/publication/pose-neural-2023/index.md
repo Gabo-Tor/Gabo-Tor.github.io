@@ -3,7 +3,7 @@ title: Neural network-based propeller damage detection for multirotors
 authors:
 - Claudio Pose
 - Juan Giribet
-- Gabriel Torre
+- **Gabriel Torre**
 - Guillermo Marzik
 date: '2023-01-01'
 publishDate: '2024-09-01T22:33:48.130754Z'

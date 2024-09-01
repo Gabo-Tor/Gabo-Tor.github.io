@@ -2,7 +2,7 @@
 title: 'Low-Cost Quadruped Leg Module: Design and Initial Validation'
 authors:
 - Tadeo Casiraghi
-- Gabriel Torre
+- **Gabriel Torre**
 - Roberto Bunge
 - Ignacio Mas
 date: '2022-03-01'

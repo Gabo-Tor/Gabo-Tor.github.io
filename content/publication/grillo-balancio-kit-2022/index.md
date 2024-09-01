@@ -2,7 +2,7 @@
 title: 'Balancio-Kit: An educational self balancing robot'
 authors:
 - Agustín Grillo
-- Gabriel Torre
+- **Gabriel Torre**
 - Roberto Bunge
 - Ignacio Mas
 date: '2022-03-01'
