@@ -13,17 +13,22 @@
 	author = {Grillo, Agustin and Torre, Gabriel and Bunge, Roberto},
 	month = jan,
 	year = {2024},
-	file = {Grillo et al. - 2024 - Optimal Stall Recovery via Deep Reinforcement Lear.pdf:/home/gabotor/Zotero/storage/7WPFV67A/Grillo et al. - 2024 - Optimal Stall Recovery via Deep Reinforcement Lear.pdf:application/pdf},
 }
 
 @inproceedings{pose_neural_2023,
 	address = {Poland},
 	title = {Neural network-based propeller damage detection for multirotors},
 	copyright = {All rights reserved},
+	shorttitle = {Neural network-based propeller damage detection},
+	url = {https://ieeexplore.ieee.org/document/10156355},
+	doi = {10.1109/ICUAS57906.2023.10156355},
 	abstract = {This work presents a method for detecting and identificating possible damages to propeller blades in multirotor vehicles, for a particular case study of a quadrotor. The detection method is based on a neural network, which takes as input the energy of several spectral bands of the inertial measurements and control variables, and outputs a measure of how damaged a propeller is. The ability of the network to correctly generalize from a limited dataset will be shown by training it using data gathered from an indoor, controlled environment, and testing it using data from outdoor flights.},
+	language = {en},
+	booktitle = {{ICUAS} 2023},
+	publisher = {IEEE},
 	author = {Pose, Claudio and Giribet, Juan and Torre, Gabriel and Marzik, Guillermo},
 	year = {2023},
-	file = {Pose et al. - 2023 - Neural network-based propeller damage detection fo.pdf:/home/gabotor/Zotero/storage/ZF4I7S4F/Pose et al. - 2023 - Neural network-based propeller damage detection fo.pdf:application/pdf},
+	pages = {17--23},
 }
 
 @inproceedings{torre_dyna-0_2022,
@@ -40,7 +45,6 @@ Otro foco de la investigación es la transferencia de lo aprendido entre el mund
 	author = {Torre, Gabriel and Grillo, Agustín and Bunge, Roberto},
 	month = mar,
 	year = {2022},
-	file = {Torre et al. - 2022 - Dyna-0 Cuadrúpedo para aprendizaje automático.pdf:/home/gabotor/Zotero/storage/BJ76XCEQ/Torre et al. - 2022 - Dyna-0 Cuadrúpedo para aprendizaje automático.pdf:application/pdf},
 }
 
 @inproceedings{casiraghi_low-cost_2022,
@@ -49,11 +53,11 @@ Otro foco de la investigación es la transferencia de lo aprendido entre el mund
 	copyright = {All rights reserved},
 	shorttitle = {Low-{Cost} {Quadruped} {Leg} {Module}},
 	abstract = {We present a new quadruped leg design focused on reducing part cost, reducing manufacturing complexity, and maximizing the use of regionally-available components. This study describes the simulations that allowed an iterative design process, the design itself and the initial testing results. The simulations represent simple leg scenarios such as running, jumping, accelerating, and standing up. With these tests, we are able to define leg requirements that shape the design process. This results in a 1kg-mass quadruped leg capable of producing 12.6 Nm of torque for short bursts thanks to its brushless motors and its 1:9 reduction. This design is then experimentally tested to verify its characteristics. This includes testing of servo motors, brushless motors, and motor-reduction systems. Of the latter, joint compliance, backlash, static and dynamic torque were tested. These are the first steps to develop a low-cost quadruped robot for autonomous locomotion research.},
+	language = {en},
 	booktitle = {{XI} {Jornadas} {Argentinas} de {Robótica}},
 	author = {Casiraghi, Tadeo and Torre, Gabriel and Bunge, Roberto and Mas, Ignacio},
 	month = mar,
 	year = {2022},
-	file = {Casiraghi et al. - 2022 - Low-Cost Quadruped Leg Module Design and Initial .pdf:/home/gabotor/Zotero/storage/HGZHYAGN/Casiraghi et al. - 2022 - Low-Cost Quadruped Leg Module Design and Initial .pdf:application/pdf},
 }
 
 @inproceedings{grillo_balancio-kit_2022,
@@ -62,10 +66,11 @@ Otro foco de la investigación es la transferencia de lo aprendido entre el mund
 	copyright = {All rights reserved},
 	shorttitle = {Balancio-{Kit}},
 	abstract = {In this paper Balancio-Kit is presented, a low-cost self balancing robot, targeted to robotics, systems control, and machine learning students and enthusiasts, at different knowledge levels. The platform comes with various additions, such as CAD files; a Bluetooth application to command the robot; a simulation, where the user can evaluate different control algorithms or train reinforcement learning agents; and a tested workflow to implement neural networks inside a low-cost microprocessor. It is designed to be low-cost and easy to assemble, simple to flash software and to be upgradable and remixable. Implemented using well-known software like Arduino IDE and open source tools like Pybullet and Open AI Gym.},
+	language = {en},
+	booktitle = {{XI} {Jornadas} {Argentinas} de {Robótica}},
 	author = {Grillo, Agustín and Torre, Gabriel and Bunge, Roberto and Mas, Ignacio},
 	month = mar,
 	year = {2022},
-	file = {Grillo et al. - 2022 - Balancio-Kit An educational self balancing robot.pdf:/home/gabotor/Zotero/storage/6Y9C6TYS/Grillo et al. - 2022 - Balancio-Kit An educational self balancing robot.pdf:application/pdf},
 }
 
 @inproceedings{casiraghi_dyna-1_2024,
@@ -73,9 +78,10 @@ Otro foco de la investigación es la transferencia de lo aprendido entre el mund
 	title = {Dyna-1: {Desarrollo}, {Construcción} y {Pruebas} {Experimentales} de un {Robot} {Cuadrúpedo} de {Diseño} {Abierto}},
 	copyright = {All rights reserved},
 	shorttitle = {Dyna-1},
+	abstract = {Presentamos un nuevo diseño de cuadrúpedo de 12 grados de libertad, centrado en reducir el costo y la complejidad de fabricación y maximizar el uso de componentes disponibles regionalmente. Para facilitar el ensamblado, las piernas son modulares, y los motores están lo mas cerca posible del cuerpo para reducir su inercia. Se utilizan motores brushless junto a controladores Odrive que permiten un control simple con su interfaz por CAN. El cuerpo contiene los motores de los hombros y toda la electrónica necesaria para su funcionamiento. Para controlar el cuadrúpedo se implementa el sistema operativo ROS2. Todos los procesos cruciales para el funcionamiento del robot se corren en la computadora a bordo, y los demás en una computadora externa. Se demuestra experimentalmente que cada pierna es capaz de saltar hasta 30 cm con un peso similar a un cuarto del cuerpo. Se ensayó el robot con peso agregado de hasta 4 kg y se observa buen rendimiento. Se creó un simulador en Pybullet para evaluar algoritmos de autonomía de manera eficiente. El costo total del robot es de aproximadamente 3000 USD. Todo el software y los modelos del hardware son de diseño abierto y pueden encontrarse en un repositorio público. https://github.com/udesa-ai/dyna1-quadruped},
 	language = {es},
+	booktitle = {{XII} {Jornadas} {Argentinas} de {Robótica}},
 	author = {Casiraghi, Tadeo and Torre, Gabriel and Bunge, Roberto and Mas, Ignacio},
 	month = jun,
 	year = {2024},
-	file = {PDF:/home/gabotor/Zotero/storage/2PRFEGZH/Casiraghi et al. - Dyna-1 Desarrollo, Construcci´on y Pruebas Experimentales de un Robot Cuadru´pedo de Dise˜no Abiert.pdf:application/pdf},
 }
