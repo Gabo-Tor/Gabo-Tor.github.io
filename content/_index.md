@@ -54,13 +54,15 @@ sections:
   #     view: article-grid
   #     columns: 2
   - block: collection
+    id: publications
     content:
-      title: Recent Publications
+      title: Publications
       text: ""
       filters:
         folders:
           - publication
         exclude_featured: false
+      count: 0
     design:
       view: citation
   # - block: collection
