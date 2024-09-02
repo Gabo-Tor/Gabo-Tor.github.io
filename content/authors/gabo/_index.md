@@ -185,4 +185,5 @@ profiles:
 
 ## Hi!
 
-I'm a research engineer at [LINAR-UdeSA](https://udesa.edu.ar/linar) and a PhD student at [IIBM-UBA](https://www.fi.uba.ar/institucional/institutos-centros-y-escuelas/instituto-de-ingenieria-biomedica), exploring robotics, AI, and computational neuroscience.
+I'm a research engineer at [LINAR-UdeSA](https://udesa.edu.ar/linar) and a PhD student at [IIBM-UBA](https://www.fi.uba.ar/institucional/institutos-centros-y-escuelas/instituto-de-ingenieria-biomedica).
+Exploring **AI**, **robotics**, and **computational neuroscience**.
