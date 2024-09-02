@@ -3,7 +3,7 @@ title: 'Dyna-1: Desarrollo, Construcción y Pruebas Experimentales de un Robot C
   de Diseño Abierto'
 authors:
 - Tadeo Casiraghi
-- Gabriel Torre
+- gabo
 - Roberto Bunge
 - Ignacio Mas
 date: '2024-06-01'
