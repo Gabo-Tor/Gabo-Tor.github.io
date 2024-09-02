@@ -3,7 +3,7 @@ title: Optimal Stall Recovery via Deep Reinforcement Learning for a General Avia
   Aircraft
 authors:
 - Agustin Grillo
-- **GabrielTorre**
+- Gabriel Torre
 - Roberto Bunge
 date: '2024-01-01'
 publishDate: '2024-09-01T22:33:48.119948Z'
