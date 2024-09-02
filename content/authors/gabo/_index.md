@@ -185,4 +185,4 @@ profiles:
 
 ## About Me
 
-Engineer at LINAR, PhD student at UBA, exploring robotics, AI, and CompNeuro.
+Engineer at [LINAR](https://udesa.edu.ar/linar), PhD student at UBA, exploring robotics, AI, and CompNeuro.
