@@ -1,12 +1,6 @@
 ---
 title: Learning Cost Functions for Reinforced Learned Controllers in a Quadrupedal
-  Robot⁎⁎O. Yago Nieto and G. Torre have contributed equally and both must be considered
-  first authors of the work. J. Giribet was partially supported by NVIDIA Applied
-  Research Program Award 2021, PICT-2019-2371 and PICT-2019-0373 projects from Agencia
-  Nacional de Investigaciones Científicas y Tecnológicas, and UBACyT-0421BA project
-  from the Universidad de Buenos Aires (UBA), Argentina. The authors acknowledge financial
-  support from Grant PID2022-137909NB-C21 funded by MCIN/AEI/ 10.13039/501100011033
-  and the LINC Global project from CSIC “Wildlife Monitoring Bots” INCGL20022.
+  Robot
 authors:
 - Gabriel Torre
 - Omayra Yago Nieto
