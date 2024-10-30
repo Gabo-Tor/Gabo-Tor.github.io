@@ -2,7 +2,7 @@
 title: Learning Cost Functions for Reinforced Learned Controllers in a Quadrupedal
   Robot
 authors:
-- Gabriel Torre
+- gabo
 - Omayra Yago Nieto
 - Alexandre Anahory Simoes
 - Juan I. Giribet
