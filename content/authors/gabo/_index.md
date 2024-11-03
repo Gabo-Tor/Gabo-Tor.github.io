@@ -41,12 +41,12 @@ profiles:
     url: https://github.com/Gabo-Tor
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/gabriel-torre-820946197/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=-JgzA9AAAAAJ
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0009-0424-687X
   - icon: custom/researchgate
     url: https://www.researchgate.net/profile/Gabriel-Torre
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=-JgzA9AAAAAJ
 
 # interests:
 #   - Artificial Intelligence
@@ -187,4 +187,4 @@ profiles:
 
 I'm a research engineer at [LINAR-UdeSA](https://udesa.edu.ar/linar) and a PhD student at [IIBM-UBA](https://www.fi.uba.ar/institucional/institutos-centros-y-escuelas/instituto-de-ingenieria-biomedica).
 
-Exploring **AI**, **robotics**, and **computational neuroscience**.
+Exploring [**AI**](/tags/ai/), [**robotics**](/tags/robotics/), and **computational neuroscience**.

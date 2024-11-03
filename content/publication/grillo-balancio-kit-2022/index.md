@@ -19,4 +19,9 @@ abstract: In this paper Balancio-Kit is presented, a low-cost self balancing rob
   It is designed to be low-cost and easy to assemble, simple to flash software and
   to be upgradable and remixable. Implemented using well-known software like Arduino
   IDE and open source tools like Pybullet and Open AI Gym.
+tags:
+- Robotics
+links:
+- name: GitHub
+  url: https://github.com/udesa-ai/balancio-kit
 ---

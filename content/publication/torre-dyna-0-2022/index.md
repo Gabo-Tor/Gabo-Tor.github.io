@@ -25,4 +25,7 @@ abstract: En este artículo se presenta el Dyna-0, un robot cuadrúpedo para inv
   entre el mundo simulado y la realidad, y posibles técnicas que ayuden a cerrar la
   brecha que separa los dos mundos, tales como aleatorización de parámetros o adaptación
   del dominio.
+tags:
+- AI
+- Robotics
 ---

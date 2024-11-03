@@ -21,4 +21,7 @@ abstract: This work presents a method for detecting and identificating possible 
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/10156355
+tags:
+- AI
+- Robotics
 ---

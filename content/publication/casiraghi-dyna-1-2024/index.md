@@ -26,4 +26,6 @@ abstract: Presentamos un nuevo diseño de cuadrúpedo de 12 grados de libertad, 
   evaluar algoritmos de autonomía de manera eficiente. El costo total del robot es
   de aproximadamente 3000 USD. Todo el software y los modelos del hardware son de
   diseño abierto y pueden encontrarse en un repositorio público. https://github.com/udesa-ai/dyna1-quadruped
+tags:
+- Robotics
 ---

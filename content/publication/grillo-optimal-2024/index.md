@@ -35,6 +35,8 @@ abstract: Stall is a hazardous region of the flight envelope for fixed-wing airc
   problem, this work suggests that PPO could be applied to other challenging loss
   of control and upset recovery problems involving full aircraft degrees of freedom
   opening up new lines of research in fixed wing loss of control.
+tags:
+- AI
 links:
 - name: URL
   url: https://arc.aiaa.org/doi/10.2514/6.2024-2408

@@ -7,7 +7,7 @@ authors:
 - Alexandre Anahory Simoes
 - Juan I. Giribet
 - Leonardo J. Colombo
-date: '2024-01-01'
+date: '2024-06-10'
 publishDate: '2024-10-30T02:13:35.448575Z'
 publication_types:
 - article-journal
@@ -21,12 +21,8 @@ abstract: In this work, we will consider a reinforced learning controller develo
   an optimal control problem is equivalent to a second-order variational problem.
   We also obtain error bounds for the approximation of the cost function.
 tags:
-- Optimal Control
-- Learning-based Control
-- Quadratic Programming
-- Quadrupedal Robots
-- Inverse Reinforcement Learning
-- Higher-order Lagrangian Mechanics
+- AI
+- Robotics
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S2405896324009960

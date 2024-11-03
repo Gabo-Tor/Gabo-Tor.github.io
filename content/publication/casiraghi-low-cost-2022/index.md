@@ -22,4 +22,6 @@ abstract: We present a new quadruped leg design focused on reducing part cost, r
   motors, brushless motors, and motor-reduction systems. Of the latter, joint compliance,
   backlash, static and dynamic torque were tested. These are the first steps to develop
   a low-cost quadruped robot for autonomous locomotion research.
+tags:
+- Robotics
 ---
