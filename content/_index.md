@@ -65,6 +65,8 @@ sections:
       count: 0
     design:
       view: citation
+      background:
+        color: "#303030"
   # - block: collection
   #   id: talks
   #   content:
