@@ -3,7 +3,7 @@ title: Propeller damage detection, classification and estimation in multirotor v
 authors:
 - Claudio Pose
 - Juan Giribet
-- Gabriel Torre
+- gabo
 date: '2024-01-01'
 publishDate: '2024-11-08T00:24:10.600485Z'
 publication_types:
