@@ -186,5 +186,6 @@ profiles:
 ## Hi!
 
 I'm a research engineer at [LINAR-UdeSA](https://udesa.edu.ar/linar) and a PhD student at [IIBM-UBA](https://www.fi.uba.ar/institucional/institutos-centros-y-escuelas/instituto-de-ingenieria-biomedica).
+Recipient of the 2025 [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/recipients/).
 
-Exploring [**AI**](/tags/ai/), [**robotics**](/tags/robotics/), and **computational neuroscience**.
+Exploring [**AI**](/tags/ai/), [**robotics**](/tags/robotics/), and [**computational neuroscience**](/tags/computational-neuroscience/).
