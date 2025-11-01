@@ -67,6 +67,22 @@ sections:
       view: citation
       background:
         color: "#303030"
+
+  - block: collection
+    id: posters
+    content:
+      title: Scientific Posters
+      text: ""
+      filters:
+        folders:
+          - poster
+        exclude_featured: false
+      count: 0
+    design:
+      view: card
+      columns: 3
+      background:
+        color: "#404040"
   # - block: collection
   #   id: talks
   #   content:
