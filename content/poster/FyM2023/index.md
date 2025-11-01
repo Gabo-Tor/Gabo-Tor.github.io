@@ -17,7 +17,7 @@ publication_types: ["poster"]
 publication: "FyM 2023"
 
 tags: 
-- computational-neuroscience
+- AI
 featured: false
 
 # Link to the poster PDF

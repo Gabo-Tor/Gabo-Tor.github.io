@@ -17,7 +17,7 @@ publication_types: ["poster"]
 publication: "SCIAA 2023 & AI@litoral 2023"
 
 tags: 
-- computational-neuroscience
+- AI
 featured: false
 
 # Link to the poster PDF

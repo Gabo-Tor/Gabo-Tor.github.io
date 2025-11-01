@@ -18,6 +18,7 @@ publication: "SNUFA 2025 & SCIAA 2025"
 
 tags: 
 - computational-neuroscience
+- robotics
 featured: false
 
 # Link to the poster PDF

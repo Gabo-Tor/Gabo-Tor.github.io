@@ -15,7 +15,7 @@ publication_types: ["poster"]
 publication: "PyM 2024"
 
 tags: 
-- computational-neuroscience
+- AI
 featured: false
 
 # Link to the poster PDF
