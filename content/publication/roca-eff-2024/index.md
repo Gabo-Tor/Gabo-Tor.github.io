@@ -1,6 +1,5 @@
 ---
 title: Efficient Endangered Deer Species Monitoring with UAV Aerial Imagery and Deep Learning
-authors: 
 authors:
 - Agustín Roca
 - gabo
