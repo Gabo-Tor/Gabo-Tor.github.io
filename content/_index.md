@@ -80,9 +80,9 @@ sections:
       count: 0
     design:
       view: card
-      columns: 3
       background:
         color: "#404040"
+
   # - block: collection
   #   id: talks
   #   content:
