@@ -9,7 +9,7 @@ date: '2023-01-01'
 publishDate: '2024-09-01T22:33:48.130754Z'
 publication_types:
 - paper-conference
-publication: '*ICUAS 2023*'
+publication: 'ICUAS 2023'
 doi: 10.1109/ICUAS57906.2023.10156355
 abstract: This work presents a method for detecting and identificating possible damages
   to propeller blades in multirotor vehicles, for a particular case study of a quadrotor.
